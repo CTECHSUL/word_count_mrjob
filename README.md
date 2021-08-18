@@ -1,7 +1,7 @@
 
 Objetivos:
 
-* Conceitos básicos dobre AWS e Python.
+* Conceitos básicos sobre AWS e Python.
 
 Rodando o projeto em uma máquina local:
 
