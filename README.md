@@ -8,5 +8,5 @@ Rodando o projeto em uma máquina local:
 Instalando o mrjob:<br>
 `python3 -m pip install mrjob`<br>
 
-Rodando o teste:<br>
+Rodando o teste localmente:<br>
 `python3 teste.py > resultado.txt`<br>
